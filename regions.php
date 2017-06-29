@@ -1,4 +1,5 @@
 <?php
+/* Regions */
 return [
     ""   => "",
     "af" => "South/Southeast Asia",
